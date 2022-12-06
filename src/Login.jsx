@@ -13,7 +13,8 @@ const Login = (props) => {
         e.preventDefault();
         console.log(email);
         alert('your email is ' + email)
-        alert('your email is ' + pass)
+        alert('your email is ' + pass) 
+        
     }
 
   return (

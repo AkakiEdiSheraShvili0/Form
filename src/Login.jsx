@@ -14,7 +14,6 @@ const Login = (props) => {
         console.log(email);
         alert('your email is ' + email)
         alert('your email is ' + pass) 
-        
     }
 
   return (

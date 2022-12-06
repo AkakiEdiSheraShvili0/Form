@@ -14,7 +14,6 @@ const Register = (props) => {
         alert('your name is ' + name)
         alert('your email is ' + email)
         alert('your password is ' + pass)
-        
     }
 
   return (

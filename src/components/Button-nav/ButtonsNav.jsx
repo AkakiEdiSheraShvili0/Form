@@ -3,7 +3,7 @@
  const ButtonNav = () => {
     return (
         <div>
-            traki
+            
         </div>
     )
  }
